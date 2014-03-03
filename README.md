@@ -12,9 +12,10 @@ Run from console:
 It will start logging everything.
 
 There are 6 differents log level:
-  0 - NO LOG
-  1 - FATAL
-  2 - ERROR
-  3 - WARN
-  4 - INFO
-  5 - DEBUG
+
+- 0 - NO LOG
+- 1 - FATAL
+- 2 - ERROR
+- 3 - WARN
+- 4 - INFO
+- 5 - DEBUG
